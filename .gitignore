@@ -1,0 +1,27 @@
+# Jupyter notebook outputs
+*.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Environment files
+.env
+.venv
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+submission.csv
+*.png
+notebook_images/

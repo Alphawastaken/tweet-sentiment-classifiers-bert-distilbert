@@ -1,0 +1,14 @@
+torch>=2.0
+transformers>=4.40
+datasets
+evaluate
+scikit-learn
+matplotlib
+seaborn
+tqdm
+pandas
+numpy
+contractions
+emoji
+textblob
+wordcloud
